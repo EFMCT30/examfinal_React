@@ -1,0 +1,12 @@
+.items{
+    
+    display: inline-block;
+    margin: 20px;
+    width: 300px;
+    vertical-align: top;
+}
+
+.items .image img{
+    height: 320px;
+}
+

@@ -1,0 +1,16 @@
+.form{
+    margin: 0 auto;
+    font-weight: bolder;
+    font-size: 15px;
+    width: 100px;
+}
+.boton{
+    border-radius: 3px;
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  .enviar{
+    background-color:rgb(78, 127, 232);
+    color: white;
+  }
+  
